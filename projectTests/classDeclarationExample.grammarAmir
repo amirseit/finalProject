@@ -1,0 +1,16 @@
+class MyClass:
+    def __init__(self, initialValue):
+        self.initialValue = initialValue
+    def increment(self):
+        self.initialValue = self.initialValue + 1
+        return self.initialValue
+    def display(self):
+        print("Current Value is")
+        print(self.initialValue)
+        return
+obj = new MyClass(10)
+dummy = obj.display()
+incrementedValue = obj.increment()
+dummy = obj.display()
+print("Incremented Value:")
+print(incrementedValue)

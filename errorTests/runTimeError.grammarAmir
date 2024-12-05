@@ -1,0 +1,6 @@
+class Divider:
+    def divide(self, a, b):
+        return a / b
+divider = new Divider()
+result = divider.divide(10, 0)
+print(result)

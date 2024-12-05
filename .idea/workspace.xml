@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23497b57-507e-400c-9bb9-2483d845af85" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eVPRMjsdnAAilu7fe9f5VGplZQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.ManualTestRunner.executor": "Run",
+    "Application.errorMain.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AllTestsSuite.executor": "Run",
+    "JUnit.AmirASTClassesTest.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirBinaryExpression.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirCompExpression.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirDeclareAssignExecution.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirIfStatementWithElif.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirLiteral.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirLogicalExpression.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirNotExpression.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirObjectPropertyAssign.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirPrintStatement.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirReturnStatement.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirSelfReference.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirSelfVariable.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirVariableReference.executor": "Run",
+    "JUnit.AmirASTClassesTest.testAmirWhileLoopStructure.executor": "Run",
+    "JUnit.CSTtoASTConverterTest.executor": "Run",
+    "JUnit.CSTtoASTConverterTest.testConvertClassDefinition.executor": "Run",
+    "JUnit.CSTtoASTConverterTest.testConvertIfStatement.executor": "Run",
+    "JUnit.CSTtoASTConverterTest.testConvertMethodDeclaration.executor": "Run",
+    "JUnit.CSTtoASTConverterTest.testConvertMethodWithStatements.executor": "Run",
+    "JUnit.CSTtoASTConverterTest.testConvertPrintStatement.executor": "Run",
+    "JUnit.CSTtoASTConverterTest.testConvertWhileStatement.executor": "Run",
+    "JUnit.CSTtoASTConverterTest.testExpressionConversion.executor": "Run",
+    "JUnit.LexerTest.executor": "Run",
+    "JUnit.LexerTest.testOperators.executor": "Run",
+    "JUnit.LexerTest.testStringLiterals.executor": "Run",
+    "JUnit.MainUnitTestRunner.executor": "Run",
+    "JUnit.ParserTest.executor": "Run",
+    "JUnit.ParserTest.testAssignmentStatement.executor": "Run",
+    "JUnit.ParserTest.testClassInstantiationExpression.executor": "Run",
+    "JUnit.ParserTest.testClassMethodDeclaration.executor": "Run",
+    "JUnit.ParserTest.testComplexExpression.executor": "Run",
+    "JUnit.ParserTest.testConstructorDeclaration.executor": "Run",
+    "JUnit.ParserTest.testEmptyProgram.executor": "Run",
+    "JUnit.ParserTest.testIfElifElseStatement.executor": "Run",
+    "JUnit.ParserTest.testIfStatement.executor": "Run",
+    "JUnit.ParserTest.testMethodCallExpression.executor": "Run",
+    "JUnit.ParserTest.testPrintStatement.executor": "Run",
+    "JUnit.ParserTest.testWhileStatement.executor": "Run",
+    "JUnit.UnitTestRunner.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admins/Desktop/IMPORTANT/mainFYP",
+    "onboarding.tips.debug.path": "C:/Users/Admins/IdeaProjects/finalProjectTwo/untitled/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admins\IdeaProjects\mainFYP\errorTests" />
+      <recent name="C:\Users\Admins\IdeaProjects\mainFYP\projectTests" />
+      <recent name="C:\Users\Admins\IdeaProjects\finalProjectTwo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admins\IdeaProjects\finalProjectTwo\src" />
+      <recent name="C:\Users\Admins\IdeaProjects\finalProjectTwo\gen\parser" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ast" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainUnitTestRunner">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="finalProjectTwo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainUnitTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unitTests.MainUnitTestRunner" />
+      <module name="finalProjectTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="errorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="errorMain" />
+      <module name="finalProjectTwo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmirASTClassesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finalProjectTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="unitTests.AmirASTClassesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainUnitTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finalProjectTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unitTests" />
+      <option name="MAIN_CLASS_NAME" value="unitTests.MainUnitTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainUnitTestRunner" />
+        <item itemvalue="Application.errorMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainUnitTestRunner" />
+        <item itemvalue="JUnit.AmirASTClassesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23497b57-507e-400c-9bb9-2483d845af85" name="Changes" comment="" />
+      <created>1711986764157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711986764157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

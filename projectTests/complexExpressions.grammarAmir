@@ -1,0 +1,12 @@
+x = 10
+y = 20
+z = 30
+result = (x < y) and (y < z)
+print("The result for x < y < z is ")
+print(result)
+result = (x > y) or (y < z)
+print("The result for (x > y) or (y < z) is ")
+print(result)
+result = not (x > y)
+print("The result for not (x > y) is ")
+print(result)

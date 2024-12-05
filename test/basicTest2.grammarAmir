@@ -1,0 +1,34 @@
+class Animal:
+    u = 6
+    def __init__ (self, a, v, m, n):
+        self.a = a
+        self.v = v
+        self.m = m
+        self.n = n
+    def doSMTH(self, x):
+        print("hi")
+        self.a = self.m + self.u
+        c = x + self.v
+        return a + 2
+    def doSMTHelse(self,x):
+        print("asdasfa")
+        return (x + self.m)
+class Dog:
+    def __init__ (self, a):
+        self.a = a
+    def doSMTH(self, x):
+        print("hi")
+        self.a = self.m + self.u
+        c = x + self.v
+        return a + 2
+x = new Animal(3, 2, 8, True)
+a = x.a
+print(a)
+b = x.v
+print(b)
+a = x.doSMTH(1)
+print(x)
+print(a)
+c = new Dog(4)
+print(c)
+print(x.u)

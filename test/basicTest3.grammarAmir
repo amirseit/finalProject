@@ -1,0 +1,15 @@
+class Animal:
+    def __init__ (self, a, c):
+        self.a = a
+        self.c = c
+    def doSMTH(self):
+        self.a = 4
+        self.c = 7
+        return self
+x = new Animal(3 + 4, True)
+c = x
+c = x.doSMTH()
+y = c.a
+print(y)
+c.a = 2
+print(c)
